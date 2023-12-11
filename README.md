@@ -21,4 +21,4 @@ Welcome to my Figure Identification project, a C++ implementation for recognizin
 This project was developed as part of an exploration into computer vision and neural networks in my BSc. studies, aiming to identify figures within images. 
 The implementation includes modular components for flexibility and easy extension, making it suitable for educational purposes and experimentation in the field of machine learning.
 
-Feel free to explore the codebase, experiment with configurations, and contribute to further improvements!
+Feel free to explore the codebase, experiment with configurations, and contribute to further improvements
